@@ -1,0 +1,11 @@
+vi
+
+
+
+
+sleep 23
+
+
+jobs
+pinfo
+quit
